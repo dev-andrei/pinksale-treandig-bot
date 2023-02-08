@@ -1,3 +1,13 @@
+# Releases
+ ### Version 2.0.0
+
+ * Fix some major bugs
+ * Wallet connect (pinksale supported Chain)
+ * Fully compatible  with pinksale new Trending Algorithm
+ * Security Features Updated
+ * Implemented Anti Bot Detection
+
+
 # About
 This is a Pinksale Trending a Bot. Which will makes a project trending on Pinksale
 
