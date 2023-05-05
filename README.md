@@ -1,4 +1,12 @@
 # Releases
+ ### Version 2.0.1
+
+ * Threading enables
+ * Fully compatible  with pinksale new Trending Algorithm
+ * Major Security Features Updated
+ * updated Anti Bot Detection
+
+
  ### Version 2.0.0
 
  * Fix some major bugs
@@ -26,7 +34,8 @@ See these Screenshots for better Understand.
 * Page Scrolling
 * Spend One Minute on a webPage
 
-
+# Working Proof:
+* https://youtu.be/80pV9h8mzAA
 
 # Requirements
 * A Windows PC
@@ -34,4 +43,4 @@ See these Screenshots for better Understand.
 
 # Contact
 
-For any kind of further assistant kindly DM on Telegram. I am always active on Telegram to here from you. Don't Hesitate to DM me. [Telegram](https://t.me/dev_andrei)
+For any kind of further assistant kindly DM on Telegram. I am always active on Telegram to here from you. Don't Hesitate to DM me. [Telegram](https://t.me/dev_andrei) [YouTube](https://www.youtube.com/channel/UCjxv5Oq7Kc_C2qw0-o_Wzig)
